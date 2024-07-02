@@ -1,0 +1,15 @@
+# Site settings
+title: The Tao of Me
+author:
+  name: farghul
+  email: farghul@vivaldi.net
+
+#write html inside the double quotes to display in jumbotron
+description: "Once apon a time I fancied myself a writer, a journalist, and even a starving artist. During those days I created an archive of fictional stories. This is mostly a collection of those, with maybe a post added from time to time. Many of my stories are unfinished, so if you'd like to give them a good ending, please do. I look forward to seeing them improved."
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://farghul.github.io" # the base hostname & protocol for your site
+github_username: farghul
+
+# Build settings
+markdown: kramdown
